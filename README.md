@@ -6,7 +6,7 @@ Cloud Administrator [@Cloudeo](https://www.cloudeo.fr/fr/) & CEO [@Retake-IT](ht
 
 *   🌍  I'm based in Strasbourg
 *   ✉️  You can contact me at [leo@nonnenmacher-logel.fr](mailto:leo@nonnenmacher-logel.fr)
-*   🚀  I'm currently working on [hailortcli-docker](http://github.com/l-nmch/hailortcli-docker)
+*   🚀  I'm currently working on [hailo-mnist](https://github.com/l-nmch/hailo-mnist)
 *   🧠  I'm learning AI & Kubernetes
 
 ### Skills 
