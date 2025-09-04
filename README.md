@@ -10,6 +10,7 @@ Cloud Administrator [@Cloudeo](https://www.cloudeo.fr/fr/) & CEO [@Retake-IT](ht
 *   🧠  I'm learning AI, Kubernetes, DevOps & Automation
 
 ### Skills 
+
 <p align="left">
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="Tensorflow" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -19,3 +20,7 @@ Cloud Administrator [@Cloudeo](https://www.cloudeo.fr/fr/) & CEO [@Retake-IT](ht
 <a href="https://opentofu.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opentofu/opentofu-icon.svg" width="36" height="36" alt="OpenTofu" /></a>
 <a href="https://linuxcontainers.org/incus/" target="_blank" rel="noreferrer"><img src="https://linuxcontainers.org/static/img/containers.small.png" width="36" height="36" alt="Incus" /></a>
 </p>
+
+### Languages
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=l-nmch&theme=dark&show_icons=true&hide_border=true&layout=compact)
