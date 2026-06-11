@@ -6,7 +6,7 @@ Cloud Administrator [@Cloudeo](https://www.cloudeo.fr/fr/) & CEO [@Retake-IT](ht
 
 *   🌍  I'm based in Strasbourg
 *   ✉️  You can contact me at [leo@nonnenmacher-logel.fr](mailto:leo@nonnenmacher-logel.fr)
-*   🚀  I'm currently working on [my blog](https://github.com/l-nmch/l-nmch.github.io)
+*   🚀  I'm currently working on [Phorge](https://phorge.fr)
 *   🧠  I'm learning AI, Kubernetes, DevOps & Automation
 
 ### Skills 
