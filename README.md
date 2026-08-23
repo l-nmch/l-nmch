@@ -23,4 +23,4 @@ Cloud Administrator [@Cloudeo](https://www.cloudeo.fr/fr/) & CEO [@Retake-IT](ht
 
 ### Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=l-nmch&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![l-nmch's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=l-nmch&theme=dark&show_icons=true&hide_border=true&layout=compact)
