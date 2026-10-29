@@ -43,14 +43,17 @@ More on the [blog](https://leo.nonnenmacher-logel.fr): [LLMs on a Hailo-10H](htt
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
 <a href="https://opentofu.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opentofu/opentofu-icon.svg" width="36" height="36" alt="OpenTofu" /></a>
 <a href="https://linuxcontainers.org/incus/" target="_blank" rel="noreferrer"><img src="https://linuxcontainers.org/static/img/containers.small.png" width="36" height="36" alt="Incus" /></a>
+<a href="https://fluxcd.io/" target="_blank" rel="noreferrer"><img src="./assets/flux.svg" width="36" height="36" alt="Flux" /></a>
+<a href="https://www.crossplane.io/" target="_blank" rel="noreferrer"><img src="./assets/crossplane.svg" width="36" height="36" alt="Crossplane" /></a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="./assets/ansible.svg" width="36" height="36" alt="Ansible" /></a>
+<a href="https://goauthentik.io/" target="_blank" rel="noreferrer"><img src="./assets/authentik.svg" width="36" height="36" alt="authentik" /></a>
+<a href="https://openfga.dev/" target="_blank" rel="noreferrer"><img src="./assets/openfga.svg" width="36" height="36" alt="OpenFGA" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="Tensorflow" /></a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
 </p>
-
-Also: Flux, Crossplane, Ansible, authentik, OpenFGA.
 
 ## Activity
 
